@@ -1,14 +1,5 @@
 Advanced Database Organization - HW 1 - STORAGE MANAGER
 
-— Team 1 —
-
-— Members —
-
-1. Snehal Mahendrakumar Prajapati   A20400105	
-2. Suchita Kiranbhai Patel 			A20410967
-3. Mayur Piyushkumar Mehta      	A20405901
-4. Rutvik Margeshbhai Pathak		A20405233
-
 — Agenda —
 
 1. Overview for Problem
@@ -170,9 +161,3 @@ Apart from the given test cases we have added few more test cases to test the be
 -readFirstBlock
 -ensureCapacity
 -destroyPageFile
-
-
-
-
-
-
